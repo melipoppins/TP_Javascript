@@ -23,4 +23,7 @@ function verif() {
         phone.style.backgroundColor= 'red';
         return false;
     }
+
+    
+
 }
